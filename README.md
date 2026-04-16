@@ -20,7 +20,7 @@ Concepts: while loops, for loops, and range().
 Key Logic: Loops prevent code repetition. for loops are for known sequences; while loops are for events that repeat until a condition changes.
 Featured Quests: Secret Number guessing game and the FizzBuzz pattern tests
 
-#Level 5: The Alchemist's Lab (Functions)
+# Level 5: The Alchemist's Lab (Functions)
 Concept: Modular Programming & Reusability
 In this level, we transition from writing "scripts" to building "modules." By using functions, we adhere to the DRY (Don't Repeat Yourself) principle, making our code cleaner and easier to maintain.
 Logic: Instead of writing the same logic 10 times, we wrap it in a def block and "call" it whenever needed.
@@ -31,7 +31,7 @@ Quest 22: Passing dynamic data into functions (Arguments).
 Quest 23: Returning calculated values (The Oracle's Vision).
 Quest 24: Building complex logic by calling functions inside other functions.
 
-#Level 6: The Grand Challenge
+# Level 6: The Grand Challenge
 Concept: Integrated Systems & Problem Solving
 The final level combines everything learned so far: Variables, Loops, Conditionals, and Functions. These quests simulate real-world programming challenges and classic interview problems.
 Featured Quests:
