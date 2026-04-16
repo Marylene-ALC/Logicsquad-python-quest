@@ -4,5 +4,5 @@ total_dragon_scales = 3*10
 total_elf_tears = 5*3
 
 #Calculating the total cost.
-total_cost = total_dragon_scales + total_elf_tears
-print (f"total cost is {total_cost}") 
+total_costs = total_dragon_scales + total_elf_tears
+print (f"total costs is {total_costs}") 
