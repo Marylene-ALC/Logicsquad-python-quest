@@ -1,6 +1,6 @@
 # Logicsquad-python-quest
 
-#Level 1: The Magic of Words and Numbers
+# Level 1: The Magic of Words and Numbers
 Concepts: print(), Variables, and Data Types.
 Key Logic: Computers need explicit instructions to display data. We use variables as "labeled boxes" to store information for later use.
 Featured Quests: Introducing heroes and calculating character health after damage.
