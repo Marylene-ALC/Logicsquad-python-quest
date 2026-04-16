@@ -1,5 +1,28 @@
 #!/usr/bin/python3
-Quest28 -THE ADVENTURE GAME
+#Quest 27 The FizzBuzz Test
+#Loop through numbers 1-100 and replace multiples of 3 and 5 with specific words.
+for i in range(1, 101):
+
+    if i % 15 == 0:
+        print("FizzBuzz") # replacing multiple of 15 with FuzzBuzz
+
+    elif i % 3 == 0:     
+        print ("Fizz") # replacing multiple of 3 with Fuzz
+
+    elif i % 5 == 0:
+         print("Buzz") #replacing multiple of 5 with Buzz
+     
+
+    else:
+        print(f"{i}") 
+
+
+
+
+
+
+
+#Quest28 -THE ADVENTURE GAME
 #This is the starting point of the game. This function tells you the options that we have and as a user you are able to choose where to go to start playing the game.
 
 def start():
@@ -45,7 +68,7 @@ def cave ():
 # Start the gam by calling the start function
 start()
 
-QUEST 30 - THE REFLECTIVE SCRIBE
+#QUEST 30 - THE REFLECTIVE SCRIBE
 
 #!/usr/bin/python3
 
