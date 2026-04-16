@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 secret_number = 42
 guess = int(input("Please enter a number"))
 
