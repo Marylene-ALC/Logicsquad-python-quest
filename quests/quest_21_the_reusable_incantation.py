@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 def greet_adventurer():
     print ("Welcome, brave adventurer! Your quest awaits.")
 
